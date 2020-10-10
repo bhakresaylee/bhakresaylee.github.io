@@ -25,6 +25,16 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
+.pro{
+  padding-left: 20px ;
+  width: 70% ;
+}
+/* .one{
+  padding-top: 40px ;
+} */
+/* .row{
+  text-align: center;
+} */
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -341,6 +351,9 @@ section {
 
 .about .content p:last-child {
   margin-bottom: 0;
+}
+.one{
+  margin-top: 20px ;
 }
 
 /*--------------------------------------------------------------
